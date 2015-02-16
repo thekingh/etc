@@ -11,7 +11,7 @@
 cd ~
 
 echo Enabling 256 Color support...
-sudo apt-get ncruses-term
+sudo apt-get ncurses-term
 echo export TERM='xterm-256color' >> .bashrc
 
 echo Installing Vim...
